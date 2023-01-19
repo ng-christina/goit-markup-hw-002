@@ -269,14 +269,10 @@ color: var(--text);
  
 .list-portfolio{
 }
-.list-portfolio .button{
-    color: var(--ctas-focusedActive-statesLink);
-    background:var(--success-10);
-}
+
  
-.list-portfolio .button.current {
-   color: var(--white);
-    background-color: var(--background-blue);
+.list-portfolio {
+ 
 }
 
 .btn{
